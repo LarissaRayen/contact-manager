@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Alice Smith",
+      "email": "user1@example.com",
+      "userId": "1"
+    },
+    {
+      "name": "Dipesh Malvia",
+      "email": "dipesh@gmail.com",
+      "userId": "1",
+      "id": "UQcucK5"
+    },
+    {
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "userId": "2",
+      "id": "SQS0Pro"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "johndoe",
+      "email": "john.doe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
